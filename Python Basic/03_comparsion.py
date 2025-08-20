@@ -1,5 +1,5 @@
 # 2025.08.20
-# 03_comparsion
+# 03_comparsion.py
 
 x = ['orange', 'banana', 'apple']
 y = ['orange', 'banana', 'apple']

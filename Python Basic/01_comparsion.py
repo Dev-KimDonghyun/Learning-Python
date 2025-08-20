@@ -1,5 +1,5 @@
 # 2025.08.20
-# 01_comparsion
+# 01_comparsion.py
 
 x = 15
 y = 25
