@@ -14,9 +14,9 @@ def inf() :
         print(f'Infinite {num}')
         num = num + 1
 
-if answer == 'y' or 'Y' :
+if answer == 'y' or answer == 'Y' :
     inf()
-elif answer == 'n' or 'N' :
+elif answer == 'n' or answer == 'N' :
     print('Okay, Bye.')
 else :
     print('ERROR')
